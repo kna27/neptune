@@ -2,11 +2,11 @@
 Partially-reusable rocket made with kOS
 
 # About
-kOS CPU is on second stage and controls rocket's ascent and circularization.
+kOS CPU is on the second stage and controls the rocket's ascent and circularization.
 
 Max payload of 12 tons to LKO and 7 tons to the Mun.
 
-First stage of the rocket is landed with parachutes and drouge chutes.
+The first stage of the rocket is landed with parachutes and drogue chutes.
 
 The script is very versatile and can be used on different rockets with a few modifications.
 
